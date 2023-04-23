@@ -1,16 +1,10 @@
-# coffee_app
+Coffee App
+This is a mobile app built with Flutter and Dart that allows users to order coffee and manage their shopping cart. The app has a minimal user interface and a bottom navigation bar to help users navigate between different screens.
 
-A new Flutter project.
+Features
+Add items to cart: Users can browse through different coffee options and add them to their shopping cart.
+Remove items from cart: Users can also remove items from their shopping cart if they change their mind or make a mistake.
+Bottom navigation bar: The app has a bottom navigation bar that allows users to switch between different screens easily.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Green Gradient Application Showcase Presentation (1)](https://user-images.githubusercontent.com/49684285/233824254-2ad71282-8b08-41fa-8db6-c30f1413d5dd.png)
